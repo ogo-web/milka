@@ -1,0 +1,77 @@
+#Hauptseite{padding:0px;
+						margin:0px;
+						border:0px;
+}
+#Rest{	background:url("images/Schokoladen_Hintergrund.jpg");
+		border:10px solid black;
+		font-family:Arial;
+		color:white;
+		font-size: 25pt;
+}
+#Rest_2{	padding: 5% 5% 5% 5%;
+					width: 70%;
+					margin: auto;
+					background-color: black;
+				 	font: solid;
+					
+}
+#Kopf_der_Seite{background:url("images/SCHOKOLADE.jpg") no-repeat;
+				height:40%;
+				border:10px solid black;
+        background-size: cover;
+}
+#Gesamt_Ueberschrift{font-family:"Freestyle Script", "Vladimis Script", "Vivaldi";
+					margin-left: 20%;
+					margin-top: 10%;
+					font-size: 100pt;
+					padding: 0%;
+					border: 0%;
+}
+#navi{	padding:0px 0px 0px 17%;
+		font-family:Arial;
+		font-size:40pt;
+		color:rgb(145, 43, 9);
+}
+#navi_alles{background:rgb(173, 76, 50);
+			border:10px solid black;
+}
+#Bild_Lindt1{margin: auto;
+						margin-top: 5%;
+						margin-bottom: 5%;
+						width: 60%;
+						height: 30%;
+}
+#Bild_Lindt2{margin: auto;
+						margin-left: 8.5%;
+						margin-top: 5%;
+						margin-bottom: 5%;
+						width: 30%;
+						height: 30%;
+}
+#Bild_Milka1{margin: auto;
+						margin-top: 5%;
+						margin-bottom: 5%;
+						width: 60%;
+						height: 30%;
+}
+#Bild_Milka2{margin: auto;
+						margin-left: 8.5%;
+						margin-bottom: 5%;
+						margin-top: 5%;
+						width: 30%;
+						height: 30%;
+}
+#Zurueck_Knopf{float:right;
+}
+#Lindt_Ueberschrift{font-size: 40pt;
+			text-decoration: underline;
+			color:rgb(145, 43, 9);
+}
+#Milka_Ueberschrift{font-size: 40pt;
+			text-decoration: underline;
+			color:rgb(145, 43, 9);
+}
+#Ersteller_Ueberschrift{font-size: 40pt;
+			text-decoration: underline;
+			color:rgb(145, 43, 9);
+}
